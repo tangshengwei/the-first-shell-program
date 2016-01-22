@@ -3,6 +3,7 @@
 # Author: kangrui
 # mail: 33750335@qq.com
 # Created Time: Sat 28 Nov 2015 04:25:32 PM EST
+# check host is alive's script .
 #########################################################################
 #!/bin/bash
 
